@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@sencha/cmd": "^7.9.0"
+  }
+}
